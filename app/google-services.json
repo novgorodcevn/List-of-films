@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97940674184",
+    "project_id": "qwerty-8d0e3",
+    "storage_bucket": "qwerty-8d0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97940674184:android:86b080106bc2a2c320713d",
+        "android_client_info": {
+          "package_name": "com.example.qwerty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTi19a7_od8ILjAeW7DeH1w8DKbxGzy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
